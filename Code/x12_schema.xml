@@ -1,0 +1,30 @@
+<seg tag="ISA" id="1" req="M" max_use="1" repeat="1">
+    <seg tag="GS" id="2" req="M" max_use="1" repeat="1">
+        <seg tag="ST" id="3" req="M" max_use="1" repeat="1">
+            <seg tag="BEG" id="4" req="M" max_use="1" repeat="0"/>
+            <seg tag="FOB" id="5" req="O" max_use="1" repeat="0"/>
+            <seg tag="DTM" id="6" req="O" max_use="10" repeat="0"/>
+            <seg tag="TD1" id="7" req="O" max_use="2" repeat="0"/>
+            <seg tag="TD5" id="8" req="O" max_use="12" repeat="0"/>
+            <seg tag="TD3" id="9" req="O" max_use="12" repeat="0"/>
+            <seg tag="N1" id="10" req="O" max_use="1" repeat="200">
+                <seg tag="N3" id="11" req="O" max_use="2" repeat="0"/>
+                <seg tag="N4" id="12" req="O" max_use="2" repeat="0"/>
+                <seg tag="REF" id="13" req="O" max_use="12" repeat="0"/>
+            </seg>
+            <seg tag="PO1" id="14" req="M" max_use="1" repeat="100000">
+                <seg tag="PID" id="15" req="O" max_use="1" repeat="1000"/>
+                <seg tag="PO4" id="16" req="O" max_use="1" repeat="0"/>
+                <seg tag="N1" id="17" req="O" max_use="1" repeat="200">
+                    <seg tag="N3" id="18" req="O" max_use="2" repeat="0"/>
+                    <seg tag="N4" id="19" req="O" max_use="2" repeat="0"/>
+                    <seg tag="REF" id="20" req="O" max_use="12" repeat="0"/>
+                </seg>
+            </seg>
+            <seg tag="CTT" id="21" req="M" max_use="1" repeat="0"/>
+            <seg tag="SE" id="22" req="M" max_use="1" repeat="0"/>
+        </seg>
+        <seg tag="GE" id="23" req="M" max_use="1" repeat="0"/>
+    </seg>
+    <seg tag="IEA" id="24" req="M" max_use="1" repeat="0"/>
+</seg>
