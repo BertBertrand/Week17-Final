@@ -503,9 +503,9 @@ if __name__ == '__main__':
 
     # Clean up storage resources
     print('Deleting containers...')
-    # blob_client.delete_container(app_container_name)
-    # blob_client.delete_container(input_container_name)
-    # blob_client.delete_container(output_container_name)
+    blob_client.delete_container(app_container_name)
+    blob_client.delete_container(input_container_name)
+    blob_client.delete_container(output_container_name)
 
     # Print out some timing info
     end_time = datetime.datetime.now().replace(microsecond=0)
