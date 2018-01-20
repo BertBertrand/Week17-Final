@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Course: McKesson Deep Azure
+# Course: Deep Azure
 # Project: Azure Batch
 # Student: Martin Bertrand
 #
