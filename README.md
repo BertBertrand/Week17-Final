@@ -29,3 +29,7 @@ This project is a technology demonstration, not a real production solution.  Pro
 
 - 2 minutes YouTube presentation: WORKING ON IT!
 - 15 minutes YouTube presentation: WORKING ON IT!
+
+# If you want to use the code...
+
+Read the file Azure-Batch_Martin-Bertrand_Report.pdf, it demonstrates how to use the code, with expected results in Azure and troubleshooting tips.
