@@ -29,7 +29,7 @@ This project is a technology demonstration, not a real production solution.  Pro
 
 # Links:
 
-- 2 minutes YouTube presentation: WORKING ON IT!
+- 2 minutes YouTube presentation: https://youtu.be/M8QKy-FlpKM
 - 15 minutes YouTube presentation: WORKING ON IT!
 
 # If you want to use the code...
