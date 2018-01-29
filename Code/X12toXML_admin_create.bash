@@ -6,6 +6,9 @@
 #
 # X12toXML_admin_create.bash
 #
+# https://creativecommons.org/licenses/by-sa/4.0/
+# https://creativecommons.org/licenses/by-sa/4.0/legalcode
+#
 ################################################################################
 
 # Configuration options.  These can be changed to reflect your preferences

@@ -1,6 +1,21 @@
+################################################################################
+# Based on an article from
+#   Jeremy Jones
+#   Processing EDI Documents into XML with Python
+#   http://www.devx.com/enterprise/Article/26854
+#
+# Used under permission for single use, non-commercial:
+#   You may use one of our articles for a non-commercial project (for example, a school project) provided that QuinStreet's copyright clause accompanies the article:
+#
+#   Reproduced with permission.
+#   Copyright 1999-2018 QuinStreet, Inc. All rights reserved.
+#
+# Available at http://www.devx.com/licensing
+################################################################################
+
 #The following code was taken from David Mertz's excellent book
 #'Text Processing in Python' available at http://gnosis.cx/TPiP/.
-#All code examples in TPIP has been graciously released to the 
+#All code examples in TPIP has been graciously released to the
 #public domain by David Mertz.
 
 class InitializationError(Exception): pass

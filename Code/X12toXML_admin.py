@@ -6,6 +6,9 @@
 #   Based on Based on python_tutorial_client.py from Microsoft
 #   All changes are commented and prefixed with # MBERT
 #
+# https://creativecommons.org/licenses/by-sa/4.0/
+# https://creativecommons.org/licenses/by-sa/4.0/legalcode
+#
 ################################################################################
 #
 # Copyright (c) Microsoft Corporation

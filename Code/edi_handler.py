@@ -1,3 +1,19 @@
+################################################################################
+# Based on an article from
+#   Jeremy Jones
+#   Processing EDI Documents into XML with Python
+#   http://www.devx.com/enterprise/Article/26854
+#
+# Used under permission for single use, non-commercial:
+#   You may use one of our articles for a non-commercial project (for example, a school project) provided that QuinStreet's copyright clause accompanies the article:
+#
+#   Reproduced with permission.
+#   Copyright 1999-2018 QuinStreet, Inc. All rights reserved.
+#
+# Available at http://www.devx.com/licensing
+################################################################################
+
+
 import string
 from xml.dom import minidom
 dom_impl = minidom.DOMImplementation()
