@@ -1,6 +1,5 @@
-# STILL UNDER DEVELOPMENT!!!
-
 # Final project
+
 - Course: Deep Azure
 - Project: Conversion of X12 documents to XML format, using Azure Batch
 - Student: Martin Bertrand
